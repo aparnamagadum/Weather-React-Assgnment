@@ -70,7 +70,7 @@ This is a weather application built using **React** that allows users to get wea
 - **CSS**: For styling the app.
 ## <span style="color:#29c4f6"> Projects Outputs:
 
-![Wether-1](".src\assets\Screenshot 2025-04-06 131216.png")
+
 
 
 
