@@ -68,7 +68,6 @@ This is a weather application built using **React** that allows users to get wea
 - **React**: A JavaScript library for building user interfaces.
 - **React Icons**: For displaying icons like the search and delete buttons.
 - **CSS**: For styling the app.
-## <span style="color:#29c4f6"> Projects Outputs:
 
 
 
