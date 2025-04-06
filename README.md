@@ -2,7 +2,7 @@
 # Aparna Weather App
 
 This is a weather application built using **React** that allows users to get weather information for predefined cities, search for specific cities, and manage the list of cities with real-time weather data.
-[Deploy Link](https://weather-fawn-ten.vercel.app/)
+[Deploy Link](https://weather-react-assgnment.onrender.com/)
 
 ## Table of Contents
 - [Features](#features)
@@ -25,7 +25,7 @@ This is a weather application built using **React** that allows users to get wea
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/PritiranjanPatra2/Weather.git
+   git clone https://github.com/aparnamagadum/Weather-React-Assgnment.git
    ```
 
 2. **Navigate into the project directory**:
@@ -70,7 +70,7 @@ This is a weather application built using **React** that allows users to get wea
 - **CSS**: For styling the app.
 ## <span style="color:#29c4f6"> Projects Outputs:
 
-![Wether-1](./src/assets/Screenshot%202024-09-17%20154828.png)
+![Wether-1](".src\assets\Screenshot 2025-04-06 131216.png")
 
 
 
